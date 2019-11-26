@@ -126,6 +126,7 @@ class TestCommand extends CLI
     }
 
 }
+
 $cli = new TestCommand();
 $cli->run();
 

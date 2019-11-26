@@ -17,6 +17,7 @@
     "autoload": {
         "psr-4": {
             "Nik\\": "app/command",
+            "App\\Nik\\": "app"
         }
     },
     "require-dev": {
